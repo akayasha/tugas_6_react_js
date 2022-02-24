@@ -1,0 +1,21 @@
+#kontak_bg {
+
+  /* Link url yang lama sudah tidak bisa diakses */
+  background-image: url("https://cdn.pixabay.com/photo/2021/02/24/20/53/abstract-6047465_960_720.jpg");
+
+  height: 730px;
+
+}
+
+
+.kontak {
+
+  color: black;
+
+  text-align: center;
+
+  margin-top: 208px;
+
+  background-color: white;
+
+}
